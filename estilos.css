@@ -86,7 +86,7 @@ p.subtitulo {
 
 .nombre{
     width: 350px;
-    display: block;
+    display:block;
     margin: auto;
     margin-bottom: 35px;
 }
@@ -107,4 +107,13 @@ p.subtitulo {
 
 .titulo {
     color: #09b;
+}
+.videos{
+    background: #0c0c0c;
+    display: flex;
+    padding: 100px;
+}
+.unVideo{
+    width: 580px;
+    /*display:inline-block;*/
 }
